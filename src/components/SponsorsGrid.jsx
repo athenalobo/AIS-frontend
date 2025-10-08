@@ -1,16 +1,16 @@
 import React from "react";
 // import gradly from "../assets/gradly.png";
-import wee from "../assets/wee.png";
-import easyTransfer from "../assets/easyTransfer.png";
-import radioEvents from "../assets/radioEvents.png";
-import bih from "../assets/bih.png";
+// import wee from "../assets/wee.png";
+// import easyTransfer from "../assets/easyTransfer.png";
+// import radioEvents from "../assets/radioEvents.png";
+// import bih from "../assets/bih.png";
 
 const SPONSORS = [
   // { name: "Gradly", badge: "Platinum Sponsor", logo: gradly, url: "https://gradly.us/" },
-  { name: "Wee", badge: "Bronze Sponsor", logo: wee, url: "http://sayweee.com/en" },
-  { name: "Easy Transfer", badge: "Bronze Sponsor", logo: easyTransfer, url: "https://www.easytransferglobal.com/" },
-  { name: "Radio Events", badge: "Media Sponsor", logo: radioEvents, url: "https://www.radio5events.com/" },
-  { name: "BIH", badge: "Media Sponsor", logo: bih, url: "https://www.instagram.com/bihevents/" },
+  // { name: "Wee", badge: "Bronze Sponsor", logo: wee, url: "http://sayweee.com/en" },
+  // { name: "Easy Transfer", badge: "Bronze Sponsor", logo: easyTransfer, url: "https://www.easytransferglobal.com/" },
+  // { name: "Radio Events", badge: "Media Sponsor", logo: radioEvents, url: "https://www.radio5events.com/" },
+  // { name: "BIH", badge: "Media Sponsor", logo: bih, url: "https://www.instagram.com/bihevents/" },
 ];
 
 export default function SponsorsGrid() {
