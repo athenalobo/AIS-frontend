@@ -1,9 +1,9 @@
 import React from "react";
-import gradly from "../assets/gradly.jpg";
-import wee from "../assets/wee.jpg";
-import easyTransfer from "../assets/easyTransfer.jpg";
-import radioEvents from "../assets/radioEvents.jpg";
-import bih from "../assets/bih.jpg";
+import gradly from "../assets/Gradly.jpg";
+import wee from "../assets/Wee.jpg";
+import easyTransfer from "../assets/EasyTransfer.jpg";
+import radioEvents from "../assets/RadioEvents.jpg";
+import bih from "../assets/BIH.jpg";
 
 const SPONSORS = [
   { name: "Gradly", badge: "Platinum Sponsor", logo: gradly, url: "https://gradly.us/" },
