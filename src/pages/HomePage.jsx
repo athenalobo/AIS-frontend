@@ -4,6 +4,7 @@ import holiImg from "../assets/img7.jpg";
 import diwaliImg from "../assets/img2.jpg";
 import garbhaImg from "../assets/img6.jpg";
 import ganeshaImg from "../assets/img5.svg";
+import SponsorsGrid from "../components/SponsorsGrid";
 
 // Import your collage
 import collage from "../assets/hero-image.png";
@@ -282,6 +283,7 @@ export default function AISHomepage() {
           </div>
         </div>
       </section>
+      <SponsorsGrid />
       <section ref={contactRef} className="py-12 bg-white">
         </section>
     </div>

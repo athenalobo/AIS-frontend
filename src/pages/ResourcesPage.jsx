@@ -1,6 +1,5 @@
 import React from "react";
 import { ExternalLink } from "lucide-react";
-import SponsorsGrid from "../components/SponsorsGrid";
 
 export default function ResourcesPage() {
   const faqs = [
@@ -97,9 +96,6 @@ export default function ResourcesPage() {
           </div>
         </div>
       </section>
-
-      {/* Sponsors Section */}
-      <SponsorsGrid />
     </main>
   );
 }
